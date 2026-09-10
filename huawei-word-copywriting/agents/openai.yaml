@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为式母字文案"
+  short_description: "把产品事实写成母字统领、短句成对的中文大标题"
+  default_prompt: "使用 $huawei-word-copywriting 为我的产品生成可替换、可验证的详情页大标题。"
